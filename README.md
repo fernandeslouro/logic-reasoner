@@ -6,4 +6,4 @@ This repository contains a resolution-based propositional logic reasoner, consis
 
 This work was developed by João Louro and Emanuel Fernandes as a project for the Artificial Intelligence and Decision Systems course at Instituto Superior Técnico. 
 
-More detailed documentaion can be found at doc/report.pdf.
+More detailed documentation can be found at doc/report.pdf.
